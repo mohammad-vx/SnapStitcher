@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.venv/
+venv/
+
+# Project artifacts
+output/
+snaps_*/
+list.txt
+last_snap.json
+saved_urls.json
+**/temp_videos/
+
+# OS
+.DS_Store
+Thumbs.db
